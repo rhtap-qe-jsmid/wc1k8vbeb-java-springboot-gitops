@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wc1k8vbeb-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/wc1k8vbeb-java-springboot-gitops
